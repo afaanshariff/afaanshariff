@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afaanshariff
+- 👋 Hi, I’m Afaan.
 - 👀 I’m interested in Mobile app development and technology, Artificial Intelligence, Machine Learning, Brain-Machine Interface, and Smart Health Monitoring devices. 
 - 🌱 I’m currently learning flutter framework and tensorflow.
 - 📫 How to reach me afaanshariff29@gmail.com
